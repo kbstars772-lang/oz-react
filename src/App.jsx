@@ -119,3 +119,36 @@ function App() {
 }
 
 export default App
+
+
+
+
+// import "./app.css";
+// import Headder from "./layout/headder";
+// import Footer from "./layout/footer";
+//const Greeting = () => {
+  //const name = "sungju";
+  //retrn (
+ // <div>
+ //  <h1>Hello, {name}!</h1>
+ // </div>
+ //);
+//};
+
+//const button = () => {
+  //return (
+ // <button>Click me</button>
+ //);
+//};
+
+//function App = () => {
+  //return (
+ // <div>
+ // <Headder />
+ // <Mainpage />
+ // <Footer />
+ // </div>
+ //);
+//};
+
+//export default app;
