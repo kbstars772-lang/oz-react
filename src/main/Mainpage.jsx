@@ -7,6 +7,7 @@
 //};
 
 //import Card from "../common/card";
+//import Styledbox from "../common/box/Styledbox";
 
 //const button = () => {
   //return (
@@ -24,6 +25,7 @@
         //<greeting />
         //<button />
         //<card />
+        //<styledbox />
         //</>
         //);
         //};
